@@ -3,7 +3,9 @@
   
   2. 增加游戏下载分组，相关域名抄自 https://github.com/dogfight360/UsbEAm ，感谢大佬 。
   
-  3. 为自用机场（ https://www.q1travel.cloud/aff.php?aff=573 ） 增加更多国家分组（ 虽然基本上是凑数的节点(￣ε(#￣) ）。
+  3. 为自用机场（ https://www.q1travel.cloud/aff.php?aff=573 ） 增加更多国家分组
+   
+   （ 虽然基本上是凑数的节点(￣ε(#￣) ）。
   
 # 使用方法
 将原先使用的转换好的订阅链接中的 “ &config= ” 后的转换模板地址替换为 “ https%3A%2F%2Fraw.githubusercontent.com%2FEuropeanWithSSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_PRO_MAX_NOT_OFFICIAL.ini ”
