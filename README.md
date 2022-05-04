@@ -7,7 +7,7 @@
    
      虽然基本上是凑数的节点(￣ε(#￣) 
    
-   4. 将原先的 url-test 地址 http://www.gstatic.com/generate_204 改为：http://www.google.com/generate_204 ，测试间隔设置为1分钟。
+   4. 将原先的 url-test 地址 http://www.gstatic.com/generate_204 改为：https://www.google.com/generate_204 ，测试间隔设置为1分钟。
   
 # 使用方法
 将原先使用的转换好的订阅链接中的 “ &config= ” 后的转换模板地址替换为 “ https%3A%2F%2Fraw.githubusercontent.com%2FEuropeanWithSSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_PRO_MAX_NOT_OFFICIAL.ini ”
