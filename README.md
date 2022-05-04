@@ -1,7 +1,7 @@
 # 自用
-  1.修改自 https://github.com/ACL4SSR/ACL4SSR ，整合ACL4SSR_Online_Full_Google.ini、ACL4SSR_Online_Full_AdblockPlus.ini、ACL4SSR_Online_Full_Netflix.ini。
+  1.修改自 https://github.com/ACL4SSR/ACL4SSR ，感谢大佬，整合ACL4SSR_Online_Full_Google.ini、ACL4SSR_Online_Full_AdblockPlus.ini、ACL4SSR_Online_Full_Netflix.ini。
   
-  2.增加游戏下载分组，相关域名抄自 https://github.com/dogfight360/UsbEAm 。
+  2.增加游戏下载分组，相关域名抄自 https://github.com/dogfight360/UsbEAm ，感谢大佬 。
   
   3.为自用机场（ https://www.q1travel.cloud/aff.php?aff=573 ） 增加更多国家分组（ 虽然基本上是凑数的节点(￣ε(#￣) ）。
   
