@@ -130,7 +130,7 @@ experimental:
 
 # Clash for Windows
 # Proxies module latency test settings
-cfw-latency-timeout: 3000
+cfw-latency-timeout: 5000
 cfw-latency-url: http://www.google.com/generate_204
 
 # 混合配置（mixin）
