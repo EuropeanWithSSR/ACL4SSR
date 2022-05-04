@@ -3,9 +3,9 @@
   
   2. 增加游戏下载分组，相关域名抄自 https://github.com/dogfight360/UsbEAm ，感谢大佬 。
   
-  3. 为自用机场（ https://www.q1travel.cloud/aff.php?aff=573 ） 增加更多国家分组
+  3. 为自用机场（ https://www.q1travel.cloud/aff.php?aff=573 ） 增加更多国家分组。
    
-   （ 虽然基本上是凑数的节点(￣ε(#￣) ）。
+     虽然基本上是凑数的节点(￣ε(#￣) 
    
    4. 将原先的 url-test 地址 http://www.gstatic.com/generate_204 改为：http://www.google.com/generate_204 ，测试间隔设置为1分钟。
   
