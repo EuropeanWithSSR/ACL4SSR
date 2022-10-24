@@ -1,10 +1,17 @@
-# 内容：xbox
-# 数量：6条
-
-DOMAIN-SUFFIX,xbox.com
-DOMAIN-SUFFIX,xboxab.com
-DOMAIN-SUFFIX,xboxab.net
-DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,xboxservice.com
-DOMAIN-SUFFIX,xboxservices.com
-DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,editorial.xboxlive.com
+DOMAIN-SUFFIX,peoplehub.xboxlive.com
+DOMAIN-SUFFIX,rta.xboxlive.com
+DOMAIN-SUFFIX,images-eds-ssl.xboxlive.com
+DOMAIN-SUFFIX,gameclipscontent-d2009.xboxlive.com
+DOMAIN-SUFFIX,xboxcare.xboxlive.com
+DOMAIN-SUFFIX,titlehub.xboxlive.com
+DOMAIN-SUFFIX,activityhub.xboxlive.com
+DOMAIN-SUFFIX,xnotify.xboxlive.com
+DOMAIN-SUFFIX,xforgeassets001.xboxlive.com
+DOMAIN-SUFFIX,xforgeassets002.xboxlive.com
+DOMAIN-SUFFIX,images-eds.xboxlive.com
+DOMAIN-SUFFIX,xbl-smooth.xboxlive.com
+DOMAIN-SUFFIX,compass.xboxlive.com
+DOMAIN-SUFFIX,catalog.gamepass.com
+DOMAIN-SUFFIX,titlestorage.xboxlive.com
+DOMAIN-SUFFIX,beige.xboxservices.com
