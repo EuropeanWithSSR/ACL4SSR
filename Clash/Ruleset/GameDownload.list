@@ -13,7 +13,11 @@ DOMAIN,download2.epicgames.com
 DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
 DOMAIN,epicgames-download1.akamaized.net
-DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,packagespc.xboxlive.com
+DOMAIN-SUFFIX,xvcf1.xboxlive.com
+DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,llnwd.net
